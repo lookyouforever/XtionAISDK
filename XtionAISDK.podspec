@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'XtionAISDK'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A short description of XtionAISDK.'
 
 # This description is used to generate tags and improve search results.
@@ -31,6 +31,8 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '11.0'
   s.platform     = :ios, '11.0'
   s.requires_arc = true
+
+  s.pod_target_xcconfig = { 'VALID_ARCHS' => 'x86_64 armv7 arm64' }
 
   s.vendored_frameworks = 'XtionAISDK/*.{framework}'
 
