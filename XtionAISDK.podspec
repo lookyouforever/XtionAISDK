@@ -35,6 +35,8 @@ TODO: Add long description of the pod here.
   s.pod_target_xcconfig = { 'VALID_ARCHS' => 'x86_64 armv7 arm64' }
 
   s.vendored_frameworks = 'XtionAISDK/*.{framework}'
+  s.dependency 'openCV2', '~> 4.3.0'
+  s.dependency 'yaml-cpp', '~> 0.5.3'
 
   # s.resources  = "XtionAISDK/*.{bundle}"
   # s.source_files  = "XtionAISDK/*.{h,m}"
