@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'XtionAISDK'
-  s.version          = '0.1.2'
+  s.version          = '0.1.5'
   s.summary          = 'A short description of XtionAISDK.'
 
 # This description is used to generate tags and improve search results.
@@ -35,8 +35,7 @@ TODO: Add long description of the pod here.
   s.pod_target_xcconfig = { 'VALID_ARCHS' => 'x86_64 armv7 arm64' }
 
   s.vendored_frameworks = 'XtionAISDK/*.{framework}'
-  s.dependency 'openCV2', '~> 4.3.0'
-  s.dependency 'yaml-cpp', '~> 0.5.3'
+  s.dependency 'OpenCV2', '~> 4.3.0'
 
   # s.resources  = "XtionAISDK/*.{bundle}"
   # s.source_files  = "XtionAISDK/*.{h,m}"
