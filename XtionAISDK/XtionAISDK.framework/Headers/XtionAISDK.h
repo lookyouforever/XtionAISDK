@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "XtionAIShareManager.h"
 
 //! Project version number for XtionAISDK.
 FOUNDATION_EXPORT double XtionAISDKVersionNumber;
@@ -16,4 +17,4 @@ FOUNDATION_EXPORT const unsigned char XtionAISDKVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <XtionAISDK/PublicHeader.h>
 
-#import "XtionAIShareManager.h"
+
