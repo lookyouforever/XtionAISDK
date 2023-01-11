@@ -1,0 +1,6 @@
+use_frameworks!
+target 'XtionAISDK_Tests' do
+  pod 'XtionAISDK', :path => '../'
+  
+  
+end
