@@ -1,6 +1,0 @@
-framework module Pods_XtionAISDK_Tests {
-  umbrella header "Pods-XtionAISDK_Tests-umbrella.h"
-
-  export *
-  module * { export * }
-}
