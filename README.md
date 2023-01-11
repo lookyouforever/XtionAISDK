@@ -22,7 +22,7 @@ pod 'XtionAISDK'
 
 ## Author
 
-tanjinbiao, tanjinbiao@wxchina.com
+eugene, tjb0931@gmail.com
 
 ## License
 

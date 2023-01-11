@@ -1,0 +1,16 @@
+PODS:
+  - XtionAISDK (0.1.0)
+
+DEPENDENCIES:
+  - XtionAISDK (from `../`)
+
+EXTERNAL SOURCES:
+  XtionAISDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XtionAISDK: 581bc5c0be6421ae7e6ba24f2c44b105300ebeb6
+
+PODFILE CHECKSUM: cab253d2de784dacb085ecb4e98e7438a52b3da2
+
+COCOAPODS: 1.11.3

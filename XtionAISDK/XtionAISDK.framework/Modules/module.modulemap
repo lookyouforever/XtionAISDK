@@ -1,0 +1,6 @@
+framework module XtionAISDK {
+  umbrella header "XtionAISDK.h"
+
+  export *
+  module * { export * }
+}

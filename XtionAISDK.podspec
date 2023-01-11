@@ -21,20 +21,21 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/tanjinbiao/XtionAISDK'
+  s.homepage         = 'https://github.com/lookyouforever/XtionAISDK'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'tanjinbiao' => 'tanjinbiao@wxchina.com' }
-  s.source           = { :git => 'https://github.com/tanjinbiao/XtionAISDK.git', :tag => s.version.to_s }
+  s.author           = { 'engune' => 'tjb0931@gmail.com' }
+  s.source           = { :git => 'https://github.com/lookyouforever/XtionAISDK.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '11.0'
+  s.platform     = :ios, '11.0'
+  s.requires_arc = true
 
-  s.source_files = 'XtionAISDK/Classes/**/*'
-  
-  # s.resource_bundles = {
-  #   'XtionAISDK' => ['XtionAISDK/Assets/*.png']
-  # }
+  s.vendored_frameworks = 'XtionAISDK/*.{framework}'
+
+  # s.resources  = "XtionAISDK/*.{bundle}"
+  # s.source_files  = "XtionAISDK/*.{h,m}"
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
