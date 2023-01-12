@@ -52,7 +52,9 @@ typedef void (^xtionAIFailureBlock)(NSError *error);
 - (void)SDKHost:(NSString *)requestHost account:(NSString *)account accessKey:(NSString *)accessKey;
 - (void)checkWebFilesVersionWithsdkH5Host:(NSString *)sdkH5Host sdkH5Token:(NSString *)sdkH5Token;
 //获取全景相机图片
-- (void)getFullSencePictures:(void(^) (NSDictionary *dict,BOOL isFinished))result;
+- (void)getFullSencePictures:(NSArray *)cameraModeArr flashMode:(NSString *)flashMode type:(NSString *)type dataRetained:(NSString *)dataRetained quality:(int)quality quantity:(int)quantity recTime:(int)recTime videoQuality:(int)videoQuality result:(void(^) (NSDictionary *dict,BOOL isFinished))result;
+
+- (void)getFakePhotos:(NSString *)path result:(void(^) (NSDictionary *dict))result;
 
 //获取单张照片
 - (void)getPictureWithRedBox:(BOOL)isRedBox cameraObliqueType:(NSInteger)cameraObliqueType  result:(void(^) (UIImage *image,NSArray *redBoxPoints))result;
