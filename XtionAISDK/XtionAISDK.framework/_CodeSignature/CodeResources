@@ -42,7 +42,7 @@
 		</data>
 		<key>Headers/XtionAIShareManager.h</key>
 		<data>
-		osgQ2RFdWqx4cgiFH1EiugkEYH8=
+		p7WAqFiP6C1olqwNbgPV0UUACZI=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -76,17 +76,25 @@
 		<data>
 		lyXcjz1MvZw6N1H1l1dIImsQc/U=
 		</data>
-		<key>XtionAIResources.bundle/cj.zip</key>
+		<key>XtionAIResources.bundle/file_100.zip</key>
 		<data>
-		sw4jTQMvmnQS4WSgrEnp5vGphl0=
+		Fq3FKyJVrY45rJeex1DSdJi6sAU=
 		</data>
-		<key>XtionAIResources.bundle/diantou.zip</key>
+		<key>XtionAIResources.bundle/file_3002.zip</key>
+		<data>
+		L6kwjLL92AezKbo8vQSeka6PKys=
+		</data>
+		<key>XtionAIResources.bundle/file_301.zip</key>
+		<data>
+		I+9L6ezHkxJO5fLNMFKfkoR47xw=
+		</data>
+		<key>XtionAIResources.bundle/file_401.zip</key>
 		<data>
 		shVpiWHTQI3IwtpkiiBhPgfatvI=
 		</data>
-		<key>XtionAIResources.bundle/fanpai.zip</key>
+		<key>XtionAIResources.bundle/file_904.zip</key>
 		<data>
-		I+9L6ezHkxJO5fLNMFKfkoR47xw=
+		sw4jTQMvmnQS4WSgrEnp5vGphl0=
 		</data>
 		<key>XtionAIResources.bundle/icon_browse_back.png</key>
 		<data>
@@ -208,10 +216,6 @@
 		<data>
 		dtvMKJCIgN95T5OqQptMwddtnWk=
 		</data>
-		<key>XtionAIResources.bundle/qingxie.zip</key>
-		<data>
-		L6kwjLL92AezKbo8vQSeka6PKys=
-		</data>
 		<key>XtionAIResources.bundle/register_agreement.html</key>
 		<data>
 		fGrj71F0pbtwE4T3FtmpcM62NMM=
@@ -223,10 +227,6 @@
 		<key>XtionAIResources.bundle/skd-photo.zip</key>
 		<data>
 		PDqNvQ8+lieOFuWvjpmq/NaTI+A=
-		</data>
-		<key>XtionAIResources.bundle/zjpj.zip</key>
-		<data>
-		Fq3FKyJVrY45rJeex1DSdJi6sAU=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -334,11 +334,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			osgQ2RFdWqx4cgiFH1EiugkEYH8=
+			p7WAqFiP6C1olqwNbgPV0UUACZI=
 			</data>
 			<key>hash2</key>
 			<data>
-			+zKWbkxBurbBeasCnfHYw9Z7P9f3x7NGfuUnEJNbgzo=
+			69+luONd5hJQFIKUsZzG764wtCZeDEfaASbNA8B8uqI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -418,18 +418,40 @@
 			3QEdDc14qRb1z8xWUwuaw2005sVsIznn6a6ZpuuLjVE=
 			</data>
 		</dict>
-		<key>XtionAIResources.bundle/cj.zip</key>
+		<key>XtionAIResources.bundle/file_100.zip</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sw4jTQMvmnQS4WSgrEnp5vGphl0=
+			Fq3FKyJVrY45rJeex1DSdJi6sAU=
 			</data>
 			<key>hash2</key>
 			<data>
-			GcK/KoYLqEoo/MJ3fVY7MVEBT7N4jasRCFaqrXI1HQs=
+			jwpbV4hihHyHIrHUSp4eAta/3iTc88XHCdLYfQlWifY=
 			</data>
 		</dict>
-		<key>XtionAIResources.bundle/diantou.zip</key>
+		<key>XtionAIResources.bundle/file_3002.zip</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			L6kwjLL92AezKbo8vQSeka6PKys=
+			</data>
+			<key>hash2</key>
+			<data>
+			p/PX3ZDPgcuILmfhTpKfRMp03yaKIl+JDdeGNLP21HE=
+			</data>
+		</dict>
+		<key>XtionAIResources.bundle/file_301.zip</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			I+9L6ezHkxJO5fLNMFKfkoR47xw=
+			</data>
+			<key>hash2</key>
+			<data>
+			1T8UpQKGimeVv4SvkbpwHBR1J1BxRuqt/5E3V7iomZE=
+			</data>
+		</dict>
+		<key>XtionAIResources.bundle/file_401.zip</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -440,15 +462,15 @@
 			6RjLJqKE1Thp++Zan/vsscEO5V/ayjiUIKLLWqRcerY=
 			</data>
 		</dict>
-		<key>XtionAIResources.bundle/fanpai.zip</key>
+		<key>XtionAIResources.bundle/file_904.zip</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			I+9L6ezHkxJO5fLNMFKfkoR47xw=
+			sw4jTQMvmnQS4WSgrEnp5vGphl0=
 			</data>
 			<key>hash2</key>
 			<data>
-			1T8UpQKGimeVv4SvkbpwHBR1J1BxRuqt/5E3V7iomZE=
+			GcK/KoYLqEoo/MJ3fVY7MVEBT7N4jasRCFaqrXI1HQs=
 			</data>
 		</dict>
 		<key>XtionAIResources.bundle/icon_browse_back.png</key>
@@ -781,17 +803,6 @@
 			mOhlSKa1EaSUZ7vWg+YJ2ZgCWABUTM/9+X+dvdH2vkw=
 			</data>
 		</dict>
-		<key>XtionAIResources.bundle/qingxie.zip</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			L6kwjLL92AezKbo8vQSeka6PKys=
-			</data>
-			<key>hash2</key>
-			<data>
-			p/PX3ZDPgcuILmfhTpKfRMp03yaKIl+JDdeGNLP21HE=
-			</data>
-		</dict>
 		<key>XtionAIResources.bundle/register_agreement.html</key>
 		<dict>
 			<key>hash</key>
@@ -823,17 +834,6 @@
 			<key>hash2</key>
 			<data>
 			mtbFpOVIzuH2zacd2Ydx5cqO/kv271M/BoJOWUh8Hg8=
-			</data>
-		</dict>
-		<key>XtionAIResources.bundle/zjpj.zip</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Fq3FKyJVrY45rJeex1DSdJi6sAU=
-			</data>
-			<key>hash2</key>
-			<data>
-			jwpbV4hihHyHIrHUSp4eAta/3iTc88XHCdLYfQlWifY=
 			</data>
 		</dict>
 	</dict>
