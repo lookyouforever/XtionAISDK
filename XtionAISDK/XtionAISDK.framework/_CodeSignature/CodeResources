@@ -42,11 +42,11 @@
 		</data>
 		<key>Headers/XtionAIShareManager.h</key>
 		<data>
-		p7WAqFiP6C1olqwNbgPV0UUACZI=
+		sKXgdJkSOhaHAum4Vb9vLNrSgJU=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		tkHASe0RoINPUHoFoDzI87vGux0=
+		eCrNsm3kYemx69eUoXdCqNLiRzE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -66,7 +66,11 @@
 		</data>
 		<key>XtionAIResources.bundle/btn_mix_capture_enable.png</key>
 		<data>
-		qibO/pgYmOyba8H5ByQFfPPJn84=
+		wCTm3WPXjoXjlv8Ps8llWee3zMY=
+		</data>
+		<key>XtionAIResources.bundle/btn_mix_capture_recording.png</key>
+		<data>
+		YyQQYtxDPYa7mx108MyNdPVjKWU=
 		</data>
 		<key>XtionAIResources.bundle/btn_mix_more_help.png</key>
 		<data>
@@ -102,27 +106,35 @@
 		</data>
 		<key>XtionAIResources.bundle/icon_browse_delete.png</key>
 		<data>
-		eTNTb0axWzgmkx1m6X/okSxIO4Q=
+		qEX5V582NgQVsCqoIMIJ4Ok8X3w=
 		</data>
 		<key>XtionAIResources.bundle/icon_browse_next.png</key>
 		<data>
 		KmKy1UH+uEphTiGW/XgHY1fnb7Q=
 		</data>
+		<key>XtionAIResources.bundle/icon_browse_select.png</key>
+		<data>
+		B9Klo2oHdKR/LlHMr+2NfsEtlzs=
+		</data>
+		<key>XtionAIResources.bundle/icon_camera_cancle.png</key>
+		<data>
+		x28pkkA/hQUrSc8WeZoyB3so06I=
+		</data>
 		<key>XtionAIResources.bundle/icon_camera_switch.png</key>
 		<data>
-		NVq3FhtMKOnQYeTZk6suydPxjXg=
+		BwC+TNYCqDRQEXQMcm1TZW73Nzk=
 		</data>
 		<key>XtionAIResources.bundle/icon_flash_auto.png</key>
 		<data>
-		dCfWzzAfNt52d7NdTY9jv3KuyEk=
+		6RV1BxAIHpI5emYiy9CzOYSYNlc=
 		</data>
 		<key>XtionAIResources.bundle/icon_flash_off.png</key>
 		<data>
-		Wi4JwImXqk5X7dHG2tAEPqzA8bM=
+		6PmdmSx8j8G3PZbVgHH6us2XEIk=
 		</data>
 		<key>XtionAIResources.bundle/icon_flash_on.png</key>
 		<data>
-		wgIItubhyyqWRfNomMWfhPVkNkc=
+		L5GGdLVC6r0Ts50lOYk3dzbkoTs=
 		</data>
 		<key>XtionAIResources.bundle/icon_shoot_back@2x.png</key>
 		<data>
@@ -134,7 +146,7 @@
 		</data>
 		<key>XtionAIResources.bundle/icon_shoot_cancle.png</key>
 		<data>
-		oV5IVwQIo2k1ySkWxK3SdRJibco=
+		2n52NhQ/L+fJbW3qA292DdSAVzw=
 		</data>
 		<key>XtionAIResources.bundle/icon_shoot_capture@2x.png</key>
 		<data>
@@ -142,7 +154,7 @@
 		</data>
 		<key>XtionAIResources.bundle/icon_shoot_save.png</key>
 		<data>
-		rzuXZdk2UOujAEe5ADp2doSQ3pM=
+		XPNnX1dbpmF0l9udN8BiynMC4xk=
 		</data>
 		<key>XtionAIResources.bundle/photo_camera_commit_yes.png</key>
 		<data>
@@ -334,11 +346,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			p7WAqFiP6C1olqwNbgPV0UUACZI=
+			sKXgdJkSOhaHAum4Vb9vLNrSgJU=
 			</data>
 			<key>hash2</key>
 			<data>
-			69+luONd5hJQFIKUsZzG764wtCZeDEfaASbNA8B8uqI=
+			M708m/fWIQwN9oFMDGUg/p2s02wSrO+Koq4BBJi0A2o=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -389,11 +401,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qibO/pgYmOyba8H5ByQFfPPJn84=
+			wCTm3WPXjoXjlv8Ps8llWee3zMY=
 			</data>
 			<key>hash2</key>
 			<data>
-			9rkx0N6ipXau5QIPxY/6Ejn0RALkdOLnMoVXV9konuA=
+			Akbr57yqJRRZpDn4UESrj+eAICiSgKxvNr4PV5V1c64=
+			</data>
+		</dict>
+		<key>XtionAIResources.bundle/btn_mix_capture_recording.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YyQQYtxDPYa7mx108MyNdPVjKWU=
+			</data>
+			<key>hash2</key>
+			<data>
+			F+ANU7XkRVB7HIqhclb1QKfyE5bfeNHkEi7dJ5V5sak=
 			</data>
 		</dict>
 		<key>XtionAIResources.bundle/btn_mix_more_help.png</key>
@@ -488,11 +511,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eTNTb0axWzgmkx1m6X/okSxIO4Q=
+			qEX5V582NgQVsCqoIMIJ4Ok8X3w=
 			</data>
 			<key>hash2</key>
 			<data>
-			GedMwizre940ztn6eMhHaeVXpkFN0+VlzdN7gzkOlU8=
+			qWCoX9Hitok/80FX5z4FYJP6Mt/HmhgQs6LHfzmKyqo=
 			</data>
 		</dict>
 		<key>XtionAIResources.bundle/icon_browse_next.png</key>
@@ -506,48 +529,70 @@
 			GlgLI8C1tcZO38kVVCoMybccXd4VmT65KxQck/3OBXw=
 			</data>
 		</dict>
+		<key>XtionAIResources.bundle/icon_browse_select.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			B9Klo2oHdKR/LlHMr+2NfsEtlzs=
+			</data>
+			<key>hash2</key>
+			<data>
+			HL8aXLTmJP6i2TEZbFEqth3chB5RCYJijM91TKxbl9U=
+			</data>
+		</dict>
+		<key>XtionAIResources.bundle/icon_camera_cancle.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			x28pkkA/hQUrSc8WeZoyB3so06I=
+			</data>
+			<key>hash2</key>
+			<data>
+			RiTFyn98AkRwD860UJJEDEC9EhXo7NYRsXqEScDjUAw=
+			</data>
+		</dict>
 		<key>XtionAIResources.bundle/icon_camera_switch.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NVq3FhtMKOnQYeTZk6suydPxjXg=
+			BwC+TNYCqDRQEXQMcm1TZW73Nzk=
 			</data>
 			<key>hash2</key>
 			<data>
-			bLsR0L6A1orw4dx29f4iTOPsRNDDExc8thSWOztyK0E=
+			NHr/61qX0Ll33B23TrMuyPgL4oMYYevmgAcf+CgUzsg=
 			</data>
 		</dict>
 		<key>XtionAIResources.bundle/icon_flash_auto.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dCfWzzAfNt52d7NdTY9jv3KuyEk=
+			6RV1BxAIHpI5emYiy9CzOYSYNlc=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZdXFF8bW4DCw9FFEgpOOBOsQvZMG2CMDQAmI7tPHlQo=
+			ruea8fEoGJ1D6jvImLzJSUSng68v8YQobBsOuLtS2f4=
 			</data>
 		</dict>
 		<key>XtionAIResources.bundle/icon_flash_off.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Wi4JwImXqk5X7dHG2tAEPqzA8bM=
+			6PmdmSx8j8G3PZbVgHH6us2XEIk=
 			</data>
 			<key>hash2</key>
 			<data>
-			lzPg1s3JwKZbjcHGnKzkzIx9KdZkXkDs+6KKl2brcRI=
+			/+S5uWIduGT8t+14ppJG0UAquP3/erduOHzVo7smHgs=
 			</data>
 		</dict>
 		<key>XtionAIResources.bundle/icon_flash_on.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wgIItubhyyqWRfNomMWfhPVkNkc=
+			L5GGdLVC6r0Ts50lOYk3dzbkoTs=
 			</data>
 			<key>hash2</key>
 			<data>
-			gv6/WLe3XiA/4GQWXHu/fjQSRWJnnktD2V4B/ycI2Hs=
+			bKC0jrjH0KihUS2mMk077KVKFpnKm/IP7NzTKx3J7Zg=
 			</data>
 		</dict>
 		<key>XtionAIResources.bundle/icon_shoot_back@2x.png</key>
@@ -576,11 +621,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oV5IVwQIo2k1ySkWxK3SdRJibco=
+			2n52NhQ/L+fJbW3qA292DdSAVzw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Sr7IuxCB2JZ9E9a5Da+bZivUcgska1LdoOCii3ktbbY=
+			9+dKLT4rV7WU29hGRyU9N6v9G5FGKhDfjRhL/V2oW00=
 			</data>
 		</dict>
 		<key>XtionAIResources.bundle/icon_shoot_capture@2x.png</key>
@@ -598,11 +643,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rzuXZdk2UOujAEe5ADp2doSQ3pM=
+			XPNnX1dbpmF0l9udN8BiynMC4xk=
 			</data>
 			<key>hash2</key>
 			<data>
-			ifC3MtfT+Qs+VcaOUVoCImcq4f9HVtMMpfDP1UDVQE0=
+			fqEFergPKjEsTkO2RhaMg4by+AxiK/9hyWZn7i/1ffk=
 			</data>
 		</dict>
 		<key>XtionAIResources.bundle/photo_camera_commit_yes.png</key>
