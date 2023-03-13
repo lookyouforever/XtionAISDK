@@ -6,7 +6,7 @@
 	<dict>
 		<key>CMakeLists.txt</key>
 		<data>
-		ZDlk79A7AL4TPvufz5K83ZETNUU=
+		+2kZ/3EiBo2X/NBPb0enwwSrULc=
 		</data>
 		<key>DDProgressHUD.bundle/Info.plist</key>
 		<data>
@@ -124,6 +124,10 @@
 		<data>
 		BwC+TNYCqDRQEXQMcm1TZW73Nzk=
 		</data>
+		<key>XtionAIResources.bundle/icon_down_arrow.png</key>
+		<data>
+		j2wOOjy4XlrJRhOw6PprB5f7HKQ=
+		</data>
 		<key>XtionAIResources.bundle/icon_flash_auto.png</key>
 		<data>
 		6RV1BxAIHpI5emYiy9CzOYSYNlc=
@@ -135,6 +139,14 @@
 		<key>XtionAIResources.bundle/icon_flash_on.png</key>
 		<data>
 		L5GGdLVC6r0Ts50lOYk3dzbkoTs=
+		</data>
+		<key>XtionAIResources.bundle/icon_left_arrow.png</key>
+		<data>
+		WADAVpQ9ONfow7bto/LJt0KoBBw=
+		</data>
+		<key>XtionAIResources.bundle/icon_right_arrow.png</key>
+		<data>
+		+fxDCGHR9SgQZcf8nCEN6NZCgC4=
 		</data>
 		<key>XtionAIResources.bundle/icon_shoot_back@2x.png</key>
 		<data>
@@ -155,6 +167,10 @@
 		<key>XtionAIResources.bundle/icon_shoot_save.png</key>
 		<data>
 		XPNnX1dbpmF0l9udN8BiynMC4xk=
+		</data>
+		<key>XtionAIResources.bundle/icon_up_arrow.png</key>
+		<data>
+		IGuvJJCnoFEVe1+Zm6C3c2EbIk0=
 		</data>
 		<key>XtionAIResources.bundle/photo_camera_commit_yes.png</key>
 		<data>
@@ -247,11 +263,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZDlk79A7AL4TPvufz5K83ZETNUU=
+			+2kZ/3EiBo2X/NBPb0enwwSrULc=
 			</data>
 			<key>hash2</key>
 			<data>
-			9r2V7Ly5mdvgJdA+87mVmyfYfs4qhd+T71a7+9FJthw=
+			eYFjmpYX3fTXW1qEd0qc/WdSEFFiIrX1CRpvsn/ZM6M=
 			</data>
 		</dict>
 		<key>DDProgressHUD.bundle/Info.plist</key>
@@ -562,6 +578,17 @@
 			NHr/61qX0Ll33B23TrMuyPgL4oMYYevmgAcf+CgUzsg=
 			</data>
 		</dict>
+		<key>XtionAIResources.bundle/icon_down_arrow.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			j2wOOjy4XlrJRhOw6PprB5f7HKQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			Vcm6NOhXlcWg3yz4QZYng3CHQcOksnWdQQouqDDSark=
+			</data>
+		</dict>
 		<key>XtionAIResources.bundle/icon_flash_auto.png</key>
 		<dict>
 			<key>hash</key>
@@ -593,6 +620,28 @@
 			<key>hash2</key>
 			<data>
 			bKC0jrjH0KihUS2mMk077KVKFpnKm/IP7NzTKx3J7Zg=
+			</data>
+		</dict>
+		<key>XtionAIResources.bundle/icon_left_arrow.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WADAVpQ9ONfow7bto/LJt0KoBBw=
+			</data>
+			<key>hash2</key>
+			<data>
+			KvyOz5ia15WoxvH8NuwO0kE1fekzHsKotWiQuwT0ed4=
+			</data>
+		</dict>
+		<key>XtionAIResources.bundle/icon_right_arrow.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+fxDCGHR9SgQZcf8nCEN6NZCgC4=
+			</data>
+			<key>hash2</key>
+			<data>
+			yPYaHSlF9vBjDHF4oCRsMuXuP+1hfImya3eDq9SdJhk=
 			</data>
 		</dict>
 		<key>XtionAIResources.bundle/icon_shoot_back@2x.png</key>
@@ -648,6 +697,17 @@
 			<key>hash2</key>
 			<data>
 			fqEFergPKjEsTkO2RhaMg4by+AxiK/9hyWZn7i/1ffk=
+			</data>
+		</dict>
+		<key>XtionAIResources.bundle/icon_up_arrow.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IGuvJJCnoFEVe1+Zm6C3c2EbIk0=
+			</data>
+			<key>hash2</key>
+			<data>
+			mVwSFhtgu+OxMahLe1EyGixcvtbBQ+KOezGds1CXnfA=
 			</data>
 		</dict>
 		<key>XtionAIResources.bundle/photo_camera_commit_yes.png</key>
